@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">finaleJava</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_details">Details</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="client_id">421694414805-1s4mfi62domhkf429a8634qjr0d9hcrb.apps.googleusercontent.com</string>
+
+</resources>
